@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "833426703342",
+    "project_id": "orientacion-ae87b",
+    "storage_bucket": "orientacion-ae87b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833426703342:android:bf9bec3b1c06bf1240c4ff",
+        "android_client_info": {
+          "package_name": "com.example.orientacion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Ah_9z8JlfD4dc3GIO9JIdT_hppG7pWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
